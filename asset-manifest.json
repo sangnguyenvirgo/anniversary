@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/anniversary/static/css/main.17969349.css",
+    "main.js": "/anniversary/static/js/main.077f72d0.js",
+    "static/js/488.c88fe8d4.chunk.js": "/anniversary/static/js/488.c88fe8d4.chunk.js",
+    "static/media/love.jpg": "/anniversary/static/media/love.de164f4d343f0fea87f4.jpg",
+    "index.html": "/anniversary/index.html",
+    "main.17969349.css.map": "/anniversary/static/css/main.17969349.css.map",
+    "main.077f72d0.js.map": "/anniversary/static/js/main.077f72d0.js.map",
+    "488.c88fe8d4.chunk.js.map": "/anniversary/static/js/488.c88fe8d4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17969349.css",
+    "static/js/main.077f72d0.js"
+  ]
+}
